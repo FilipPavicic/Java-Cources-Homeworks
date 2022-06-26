@@ -1,0 +1,9 @@
+1	Prljavo kazalište	https://www.youtube.com/watch?v=axaKzbLL5Ws&ab_channel=JAvolimPrljavoKazali%C5%A1te
+2	Plavi orkestar	https://www.youtube.com/watch?v=OmbAGzpgKIE&ab_channel=NikolaKolund%C5%BEi%C4%87
+3	Bijelo dugme	https://www.youtube.com/watch?v=fwpyL0w-zyI&ab_channel=BijeloDugme
+4	Bajaga	https://www.youtube.com/watch?v=A8sFkwwf8Xk&ab_channel=BajagaiInstruktori
+5	Pravila igre	https://www.youtube.com/watch?v=39a3BdTWEDc&ab_channel=PravilaIgre-RulesoftheGame
+6	Crvena jabuka	https://www.youtube.com/watch?v=Wl2RGKNCAJ0&ab_channel=CroRecVEVO
+7	Daleka obala	https://www.youtube.com/watch?v=2EMmmGkY4zY&ab_channel=DALEKAOBALACRORECOFFICIAL
+8	Magazin	https://www.youtube.com/watch?v=hlluayds-EI&ab_channel=GrupaMagazin
+9	Parni valjak	https://www.youtube.com/watch?v=coEMbzlkzV4&ab_channel=CroatiaRecords

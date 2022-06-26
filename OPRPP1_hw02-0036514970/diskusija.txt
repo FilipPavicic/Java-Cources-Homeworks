@@ -1,0 +1,6 @@
+Objašnjenje razreda ElementTagName
+
+Na predmetu Prevođenje programskih jezika, leksički analizator definirali smo da sadrži ključne riječi kao klasu leksičkih jediniki.
+Stoga sam ja odlučio dodati ElementTagName koji zapravo predstavlja razred ključnih riječi.
+
+Isto tako dodao sam i razred TagNames koji sadrži sve ključne riječi definirane do sada. 

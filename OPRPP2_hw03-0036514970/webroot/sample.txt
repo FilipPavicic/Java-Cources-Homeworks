@@ -1,0 +1,3 @@
+Ovo je čisti tekst koji se mora tako i prikazati
+
+Pozdrav, server dobro vraća txt datoteku.

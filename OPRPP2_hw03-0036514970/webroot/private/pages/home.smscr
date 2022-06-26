@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <style>
+ body {background-color: #{$= "background" "ffffff" @tparamGet$};}
+ </style>
+ </head>
+ <body>
+<h1>Dobrodo&scaron;li na stranicu index2.html</h1>
+<p>dostupne su sljedeće skripte</p>
+<p><a href="./scripts/osnovni.smscr">osnovni</a></p>
+<p><a href="./scripts/brojPoziva.smscr">brojPoziva</a></p>
+<p><a href="./scripts/fibonaccih.smscr">fibonaccih</a></p>
+<p>dostupni su sljedeći workeri</p>
+<p><a href="./ext/HelloWorker">HelloWorker</a></p>
+<p><a href="./ext/CircleWorker">CircleWorker</a></p>
+<p>dostupna je sljedeća forma za zbrajanje</p>
+<form action="./calc" method="GET">
+<p>
+<label for="fname">Varijabla A:</label><br /><input id="varA" name="a" type="text" /><br />
+<label for="lname">Varijabla B:</label><br /><input id="varB" name="b" type="text" /><br /><br /><input type="submit" value="Submit" /></p>
+<p>dostupan je i izbor boje pozadine</p>
+</form>
+<form action="/setbgcolor" method="GET">
+<p>
+<input id="bgcolor" name="bgcolor" type="color" value="#ffffff" />&nbsp; 
+<label for="head">Background color</label></p>
+<input type="submit" value="Submit color" /></form>
+<p>{$= "message" " " @pparamGet$}</p>
+ </body>
+</html>
